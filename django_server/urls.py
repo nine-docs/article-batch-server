@@ -22,7 +22,7 @@ from rest_framework import permissions
 
 schema_view = get_schema_view(
     openapi.Info(
-        title="Canary RIRIRIRIDIRIDIRDIR V3 Django Project API",
+        title=" RIRIRIRIDIRIDIRDIR V3 Django Project API",
         default_version='v1',
         description="API documentation for the Django project",
         terms_of_service="localhost",
